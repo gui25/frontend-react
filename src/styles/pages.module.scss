@@ -1,0 +1,43 @@
+.pageItem {
+    background: transparent;
+    border: none;
+    height: 2rem;
+    width: 2rem;
+    margin: 0 0.25rem;
+    border-radius: 10%;
+    font-weight: 600;
+    color: #ccc;
+    cursor: pointer;
+  &:hover {
+      text-decoration: underline;
+      background-color: #615e5e5b;
+    }
+  &:focus {
+      outline: 0;
+    }
+  }
+  .active {
+    background-color:  #615e5e5b;
+    color: #fff;
+  }
+  .sides {
+    box-shadow: transparent 0px 0px 0px 1px, transparent 0px 0px 0px 4px, rgba(255, 255, 255, 0.719) 0px 2px 4px;
+  &:hover {
+      text-decoration: none;
+      box-shadow: transparent 0px 0px 0px 1px, transparent 0px 0px 0px 4px, rgba(255, 255, 255, 0.719) 0px 6px 16px;
+    }
+  }
+  
+  
+  
+  .paginationWrapper {
+      padding: 2rem 0;
+      display: flex;
+      justify-content: center;
+    }
+    .separator {
+      color: #fff;
+      width: 1rem;
+      margin: 0 0.25rem;
+    }
+    
