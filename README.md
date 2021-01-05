@@ -6,7 +6,7 @@ Desenvolver um painel integrado com uma API, seguindo o modelo de layout propost
 
 ### Desafio Realizado
 
-Eu havia feito o desafio publiquei no link: [Frontend-React](https://frontend-react.gui25.vercel.app) 🚀 
+Eu havia feito o desafio publiquei no link: https://frontend-react.gui25.vercel.app 🚀 
 
 ### Como realizar
 
